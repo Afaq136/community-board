@@ -30,7 +30,7 @@ Here's a walkthrough of implemented required features:
 ![ezgif-7f6b38257c7fc5](https://github.com/user-attachments/assets/d6937d70-1cf0-4a3c-947e-d439ee282316)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with https://ezgif.com/video-to-gif
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
